@@ -1,6 +1,6 @@
 # Pig Game 🎲🐖
 
-![flowchart](Pig-Game-Homepage.png)
+![flowchart](pig-game-homepage.png)
 
 ## Overview
 
